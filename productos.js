@@ -1,5 +1,8 @@
 window.addEventListener("DOMContentLoaded", () => {
   const prices = {
+    "¡Mera traba!": 20000,
+    "Truko mental": 15000,
+    "Viaje astral": 30000,
     "Brownie abremente": 10000,
     "Brownie el portal": 15000,
     "Brownie viaje exótico": 22000,
